@@ -16,7 +16,7 @@ DESCRIPTION = 'SciModelStats class code for course use only'
 
 # Setting up
 setup(
-    name="library",
+    name="scimodel",
     version=VERSION,
     author="SciModel.dev (Yahya Khawam)",
     description=DESCRIPTION,
