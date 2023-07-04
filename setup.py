@@ -15,5 +15,5 @@ setup(
     description=DESCRIPTION,
     long_description_content_type="text/markdown",
     packages=find_packages(),
-    install_requires=['numpy', 'pandas', 'scipy', 'torch', 'python-math', 'statsmodels']
+    install_requires=['numpy', 'pandas', 'scipy', 'torch', 'python-math', 'statsmodels', 'seaborn']
 )
