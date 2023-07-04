@@ -8,5 +8,9 @@ In your practice notebook, you need to install the package containing the SciMod
 
 !pip install git+https://github.com/yahya-bader-khawam/course-content-for-CPU-and-GPU-accelerated-Parametric-Statistical-Analysis-from-Scratch-in-Python.git
 
+OR:
+
+pip install git+https://github.com/yahya-bader-khawam/course-content-for-CPU-and-GPU-accelerated-Parametric-Statistical-Analysis-from-Scratch-in-Python.git
+
 
 https://scimodel.dev
