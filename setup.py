@@ -13,7 +13,6 @@ setup(
     version=VERSION,
     author="SciModel.dev (Yahya Khawam)",
     description=DESCRIPTION,
-    long_description_content_type="text/markdown",
     packages=find_packages(),
     install_requires=['numpy', 'pandas', 'scipy', 'torch', 'python-math', 'statsmodels', 'seaborn']
 )
