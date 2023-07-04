@@ -1,2 +1,2 @@
 # -*- coding: utf-8 -*-
-from stats import SciModelStats
+from .stats import SciModelStats
